@@ -14,6 +14,5 @@
     </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyshin778&show_icons=true&theme=tokyonight" height="150px" style="display: inline-block; margin-right: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyshin778&layout=compact&theme=tokyonight" height="150px" style="display: inline-block;"/>
 </div>
