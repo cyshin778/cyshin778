@@ -12,6 +12,8 @@
     <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />&nbsp
           </div>
     </div>
-    
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyshin778&layout=compact&theme=tokyonight&langs_count=3" />
- 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyshin778&show_icons=true&theme=tokyonight" height="150px" style="display: inline-block; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyshin778&layout=compact&theme=tokyonight" height="150px" style="display: inline-block;"/>
+</div>
