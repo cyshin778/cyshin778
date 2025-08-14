@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I am an undergraduate student majoring biotechnology. My research interests are leveraging ML/DL techniques with multimodal data to uncover disease risk factors and building robust predictive models for precision medicine. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I am an undergraduate student majoring biotechnology, working as an intern at a lab in SAIHST Digital Health department. My major field of interest is biomedical informatics, leveraging ML/DL techniques with multimodal data to uncover disease risk factors and building robust predictive models for precision medicine. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
